@@ -1,0 +1,13 @@
+{
+  "name": "coin-game-bot",
+  "version": "1.0.0",
+  "description": "Telegram-бот: выдаёт файл игры после проверки подписки, умеет загружать файл игры через /upload",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "private": true
+}
